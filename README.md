@@ -4,9 +4,9 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width=150 height=150 style='display: inline;' />
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/414px-Nextjs-logo.svg.png' width=150 style='display: inline;' />
 
-![React Logo](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png){:width='150px'}
-![JS Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png){:width='150px'}
-![Next Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/414px-Nextjs-logo.svg.png){:width='150px'}
+![React Logo](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png){:width="150px"}
+![JS Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png){:"width='150px"}
+![Next Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/414px-Nextjs-logo.svg.png){:width="150px"}
 <br />
 Take a look at my projects below! ⤵️
 
