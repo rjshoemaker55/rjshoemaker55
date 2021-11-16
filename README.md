@@ -1,5 +1,6 @@
 # Hey there! 😃
 ## My name is RJ Shoemaker and I specialize in React and Javascript.
+[React Logo](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png)
 <br />
 Take a look at my projects below! ⤵️
 
