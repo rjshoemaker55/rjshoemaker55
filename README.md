@@ -1,5 +1,5 @@
 # Hey there! 😃
-## My name is RJ Shoemaker and I specialize in React and Javascript.
+## I'm a web developer. I like Javascript.
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/414px-Nextjs-logo.svg.png' width=150 style='display: inline;' />
 <br />
 Take a look at my projects below! ⤵️
