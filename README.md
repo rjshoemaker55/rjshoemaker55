@@ -1,8 +1,7 @@
-# Hey there!
-## My name is RJ Shoemaker, and I'm a web developer.
-### I specialize in React and Javascript.
+# Hey there! 😃
+## My name is RJ Shoemaker and I specialize in React and Javascript.
 <br />
-Take a look at my projects below!
+Take a look at my projects below! ⤵️
 
 <!--
 **rjshoemaker55/rjshoemaker55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
